@@ -1,4 +1,4 @@
-FROM python:3
+FROM python:3.10-slim
 
 MAINTAINER Matt Jarvis "matt.jarvis@snyk.io"
 
